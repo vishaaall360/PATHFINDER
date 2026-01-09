@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pathfinding Visualizer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🧭 Pathfinding Visualizer</h1>
+
+<div class="controls">
+  <select id="algorithm">
+    <option value="bfs">BFS</option>
+    <option value="dfs">DFS</option>
+    <option value="dijkstra">Dijkstra</option>
+    <option value="astar">A*</option>
+  </select>
+
+  <button id="visualizeBtn">Visualize</button>
+  <button id="clearBtn">Clear Path</button>
+  <button id="resetBtn">Reset Grid</button>
+</div>
+
+<div id="grid"></div>
+
+<!-- ✅ ONLY ONE SCRIPT, AS MODULE -->
+<script type="module" src="main.js"></script>
+
+</body>
+</html>
