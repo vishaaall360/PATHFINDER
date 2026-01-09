@@ -40,8 +40,7 @@ pathfinding-visualizer/
 
 ## How to Run the Project
 1. Clone the repository:
-   git clonegit clone https://github.com/vishaal360/pathfinding-visualizer.git
-
+   git clonegit clone https://github.com/vishaaall360/PATHFINDER.git
 
 2. Navigate into the project folder:
    cd pathfinding-visualizer
