@@ -40,7 +40,8 @@ pathfinding-visualizer/
 
 ## How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/your-username/pathfinding-visualizer.git
+   git clonegit clone https://github.com/vishaal360/pathfinding-visualizer.git
+
 
 2. Navigate into the project folder:
    cd pathfinding-visualizer
@@ -80,5 +81,5 @@ Important: Do not open index.html directly using file:// because ES modules requ
 This project is licensed under the MIT License.
 
 ## Author
-Your Name  
-GitHub: https://github.com/your-username
+S.VISHAAL 
+GitHub: https://github.com/vishaall360
